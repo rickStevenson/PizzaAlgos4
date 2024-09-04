@@ -1,3 +1,5 @@
 Step 1: Pick Pizza joint
 Step 2: Choose Pizza
 Step 3: Order Pizza
+Step 4: Pay for Pizza
+Step 5: Enjoy Pizza
